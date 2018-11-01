@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="opt" value="project"/>
+		<level name="bcpkix-jdk15on-160" value="project"/>
+		<level name="bcprov-ext-jdk15on-160" value="project"/>
+		<level name="bshclient" value="project"/>
+		<level name="jorphan" value="project"/>
+		<level name="bcmail-jdk15on-160" value="project"/>
+	</levels>
+</component>
